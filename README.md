@@ -1,4 +1,5 @@
 ## Hi there I'm Florian Kasperbauer 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florianka) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kasperFlo)
 
 
 
